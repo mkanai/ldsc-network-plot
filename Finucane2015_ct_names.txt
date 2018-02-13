@@ -1,0 +1,221 @@
+category	cell_type	cell_type_clean	file_num	mark	cell_type_clean2
+Other	BI.Adipose_Nuclei_peaks.bed	Adipose_nuclei	1	H3K4me1	Adipose nuclei
+Kidney	BI.Adult_Kidney_peaks.bed	Kidney	2	H3K4me1	Kidney
+Liver	BI.Adult_Liver_peaks.bed	Liver_(BI)	3	H3K4me1	Liver
+CNS	BI.Brain_Angular_Gyrus_peaks.bed	Angular_gyrus	4	H3K4me1	Angular gyrus
+CNS	BI.Brain_Anterior_Caudate_peaks.bed	Anterior_caudate	5	H3K4me1	Anterior caudate
+CNS	BI.Brain_Cingulate_Gyrus_peaks.bed	Cingulate_gyrus	6	H3K4me1	Cingulate gyrus
+CNS	BI.Brain_Hippocampus_Middle_peaks.bed	Hippocampus_middle	7	H3K4me1	Hippocampus middle
+CNS	BI.Brain_Inferior_Temporal_Lobe_peaks.bed	Inferior_temporal_lobe	8	H3K4me1	Inferior temporal lobe
+CNS	BI.Brain_Mid_Frontal_Lobe_peaks.bed	Mid_frontal_lobe	9	H3K4me1	Mid frontal lobe
+CNS	BI.Brain_Substantia_Nigra_peaks.bed	Substantia_nigra	10	H3K4me1	Substantia nigra
+Hematopoietic	BI.CD15_Primary_Cells_peaks.bed	CD15_primary	11	H3K4me1	CD15
+Hematopoietic	BI.CD19_Primary_Cells_peaks.bed	CD19_primary_(BI)	12	H3K4me1	CD19
+Hematopoietic	BI.CD34_Primary_Cells_peaks.bed	CD34_primary	13	H3K4me1	CD34
+Hematopoietic	BI.CD3_Primary_Cells_peaks.bed	CD3_primary_(BI)	14	H3K4me1	CD3
+Hematopoietic	BI.CD4+_CD25+_CD127-_Treg_Primary_Cells_peaks.bed	CD4+_CD25+_CD127-_Treg_primary	15	H3K4me1	CD4+CD25+CD127-
+Hematopoietic	BI.CD4+_CD25-_CD45RA+_Naive_Primary_Cells_peaks.bed	CD4+_CD25-_CD45RA+_naive_primary	16	H3K4me1	CD4+CD25-CD45RA+ naive
+Hematopoietic	BI.CD4+_CD25-_CD45RO+_Memory_Primary_Cells_peaks.bed	CD4+_CD25-_CD45R0+_memory_primary	17	H3K4me1	CD4+CD25-CD45RO+ memory
+Hematopoietic	BI.CD4+_CD25-_IL17+_PMA-Ionomcyin_stimulated_Th17_Primary_Cells_peaks.bed	CD4+_CD25-_IL17+_PMA_Ionomycin_stim_Th17_primary	18	H3K4me1	CD4+CD25-IL17+ stim Th17
+Hematopoietic	BI.CD4+_CD25-_IL17-_PMA-Ionomycin_stimulated_MACS_purified_Th_Primary_Cells_peaks.bed	CD4+_CD25-_IL17-_PMA_Ionomycin_stim_MACS_Th_sprimary	19	H3K4me1	CD4+CD25-IL17- stim Th
+Hematopoietic	BI.CD4+_CD25int_CD127+_Tmem_Primary_Cells_peaks.bed	CD4+_CD25int_CD127+_Tmem_primary	20	H3K4me1	CD4+CD25intCD127+ Tmem
+Hematopoietic	BI.CD4+_CD25-_Th_Primary_Cells_peaks.bed	CD4+_CD25-_Th_primary	21	H3K4me1	CD4+CD25- Th
+Hematopoietic	BI.CD4_Memory_Primary_Cells_peaks.bed	CD4_memory_primary	22	H3K4me1	CD4 memory
+Hematopoietic	BI.CD4_Naive_Primary_Cells_peaks.bed	CD4_naive_primary	23	H3K4me1	CD4 naive
+Hematopoietic	BI.CD8_Memory_Primary_Cells_peaks.bed	CD8_memory_primary	24	H3K4me1	CD8 memory
+Hematopoietic	BI.CD8_Naive_Primary_Cells_peaks.bed	CD8_naive_primary_(BI)	25	H3K4me1	CD8 naive
+GI	BI.Colonic_Mucosa_peaks.bed	Colonic_mucosa	26	H3K4me1	Colonic mucosa
+GI	BI.Colon_Smooth_Muscle_peaks.bed	Colon_smooth_muscle	27	H3K4me1	Colon smooth muscle
+GI	BI.Duodenum_Mucosa_peaks.bed	Duodenum_Mucosa	28	H3K4me1	Duodenum Mucosa
+GI	BI.Duodenum_Smooth_Muscle_peaks.bed	Duodenum_smooth_muscle	29	H3K4me1	Duodenum smooth muscle
+CNS	BI.Fetal_Brain_peaks.bed	Fetal_brain	30	H3K4me1	Fetal brain
+Cardiovascular	BI.Fetal_Heart_peaks.bed	Fetal_heart	31	H3K4me1	Fetal heart
+Cardiovascular	BI.Fetal_Lung_peaks.bed	Fetal_lung	32	H3K4me1	Fetal lung
+Hematopoietic	BI.Mobilized_CD34_Primary_Cells_peaks.bed	Mobilized_CD34_primary	33	H3K4me1	Mobilized CD34
+Adrenal_Pancreas	BI.Pancreatic_Islets_peaks.bed	Pancreatic_islets	34	H3K4me1	Pancreatic islets
+GI	BI.Rectal_Mucosa_peaks.bed	Rectal_mucosa	35	H3K4me1	Rectal mucosa
+GI	BI.Rectal_Smooth_Muscle_peaks.bed	Rectal_smooth_muscle	36	H3K4me1	Rectal smooth muscle
+SkeletalMuscle	BI.Skeletal_Muscle_peaks.bed	Skeletal_muscle	37	H3K4me1	Skeletal muscle
+GI	BI.Stomach_Mucosa_peaks.bed	Stomach_mucosa	38	H3K4me1	Stomach mucosa
+GI	BI.Stomach_Smooth_Muscle_peaks.bed	Stomach_smooth_muscle	39	H3K4me1	Stomach smooth muscle
+Liver	UCSD.Adult_Liver_peaks.bed	Liver_(UCSD)	40	H3K4me1	Liver
+GI	UCSD.Esophagus_peaks.bed	Esophagus	41	H3K4me1	Esophagus
+GI	UCSD.Gastric_peaks.bed	Gastric	42	H3K4me1	Gastric
+Cardiovascular	UCSD.Left_Ventricle_peaks.bed	Left_Ventricle	43	H3K4me1	Left Ventricle
+Cardiovascular	UCSD.Lung_peaks.bed	Lung	44	H3K4me1	Lung
+Other	UCSD.Ovary_peaks.bed	Ovary	45	H3K4me1	Ovary
+Adrenal_Pancreas	UCSD.Pancreas_peaks.bed	Pancreas	46	H3K4me1	Pancreas
+SkeletalMuscle	UCSD.Psoas_Muscle_peaks.bed	Psoas_muscle	47	H3K4me1	Psoas muscle
+Cardiovascular	UCSD.Right_Atrium_peaks.bed	Right_atrium	48	H3K4me1	Right atrium
+Cardiovascular	UCSD.Right_Ventricle_peaks.bed	Right_ventricle	49	H3K4me1	Right ventricle
+GI	UCSD.Sigmoid_Colon_peaks.bed	Sigmoid_colon	50	H3K4me1	Sigmoid colon
+GI	UCSD.Small_Intestine_peaks.bed	Small_intestine	51	H3K4me1	Small intestine
+Hematopoietic	UCSD.Spleen_peaks.bed	Spleen	52	H3K4me1	Spleen
+Hematopoietic	UCSD.Thymus_peaks.bed	Thymus	53	H3K4me1	Thymus
+Hematopoietic	UW.Fetal_Thymus_peaks.bed	Fetal_thymus	54	H3K4me1	Fetal thymus
+Connective_Bone	UCSF-UBC.Breast_Fibroblast_Primary_Cells_peaks.bed	Breast_fibroblast_primary	55	H3K4me1	Breast fibroblast
+Other	UCSF-UBC.Breast_Luminal_Epithelial_Cells_peaks.bed	Breast_luminal_epithelial	56	H3K4me1	Breast luminal epithelial
+Other	UCSF-UBC.Breast_Myoepithelial_Cells_peaks.bed	Breast_myoepithelial	57	H3K4me1	Breast myoepithelial
+Other	UCSF-UBC.Breast_vHMEC_peaks.bed	Breast_vHMEC	58	H3K4me1	Breast vHMEC
+Hematopoietic	UCSF-UBC.CD8_Naive_Primary_Cells_peaks.bed	CD8_naive_primary_(UCSF-UBC)	59	H3K4me1	CD8 naive
+Adrenal_Pancreas	UCSF-UBC.Pancreatic_Islets_peaks.bed	Pancreatic_islets	60	H3K4me1	Pancreatic islets
+Connective_Bone	UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells_peaks.bed	Penis_foreskin_fibroblast_primary	61	H3K4me1	Penis foreskin fibroblast
+Other	UCSF-UBC.Penis_Foreskin_Keratinocyte_Primary_Cells_peaks.bed	Penis_foreskin_keratinocyte_primary	62	H3K4me1	Penis foreskin keratinocyte
+Other	UCSF-UBC.Penis_Foreskin_Melanocyte_Primary_Cells_peaks.bed	Penis_foreskin_melanocyte_primary	63	H3K4me1	Penis foreskin melanocyte
+Hematopoietic	UCSF-UBC.Peripheral_Blood_Mononuclear_Primary_Cells_peaks.bed	Peripheralblood_mononuclear_primary	64	H3K4me1	PBMC
+Other	UCSF-UBC.Placenta_Amnion_peaks.bed	Placenta_amnion	65	H3K4me1	Placenta amnion
+Other	UCSF-UBC.Placenta_Chorion_Smooth_peaks.bed	Placenta_chorion	66	H3K4me1	Placenta chorion
+Hematopoietic	UW.CD14_Primary_Cells_peaks.bed	CD14_primary	67	H3K4me1	CD14
+Hematopoietic	UW.CD19_Primary_Cells_peaks.bed	CD19_primary_(UW)	68	H3K4me1	CD19
+Hematopoietic	UW.CD3_Primary_Cells_peaks.bed	CD3_primary_(UW)	69	H3K4me1	CD3
+Hematopoietic	UW.CD56_Primary_Cells_peaks.bed	CD56_primary	70	H3K4me1	CD56
+Adrenal_Pancreas	UW.Fetal_Adrenal_Gland_peaks.bed	Fetal_adrenal	71	H3K4me1	Fetal adrenal
+GI	UW.Fetal_Intestine_Large_peaks.bed	Fetal_large_intestine	72	H3K4me1	Fetal large intestine
+GI	UW.Fetal_Intestine_Small_peaks.bed	Fetal_small_intestine	73	H3K4me1	Fetal small intestine
+SkeletalMuscle	UW.Fetal_Muscle_Leg_peaks.bed	Fetal_leg_muscle	74	H3K4me1	Fetal leg muscle
+SkeletalMuscle	UW.Fetal_Muscle_Trunk_peaks.bed	Fetal_trunk_muscle	75	H3K4me1	Fetal trunk muscle
+Other	UW.Fetal_Placenta_peaks.bed	Fetal_placenta	76	H3K4me1	Fetal placenta
+GI	UW.Fetal_Stomach_peaks.bed	Fetal_stomach	77	H3K4me1	Fetal stomach
+Other	BI.Adipose_Nuclei_peaks.bed	Adipose_nuclei	78	H3K4me3	Adipose nuclei
+Kidney	BI.Adult_Kidney_peaks.bed	Kidney	79	H3K4me3	Kidney
+Liver	BI.Adult_Liver_peaks.bed	Liver_(BI)	80	H3K4me3	Liver
+CNS	BI.Brain_Angular_Gyrus_peaks.bed	Angular_gyrus	81	H3K4me3	Angular gyrus
+CNS	BI.Brain_Anterior_Caudate_peaks.bed	Anterior_caudate	82	H3K4me3	Anterior caudate
+CNS	BI.Brain_Cingulate_Gyrus_peaks.bed	Cingulate_gyrus	83	H3K4me3	Cingulate gyrus
+CNS	BI.Brain_Hippocampus_Middle_peaks.bed	Hippocampus_middle	84	H3K4me3	Hippocampus middle
+CNS	BI.Brain_Inferior_Temporal_Lobe_peaks.bed	Inferior_temporal_lobe	85	H3K4me3	Inferior temporal lobe
+CNS	BI.Brain_Mid_Frontal_Lobe_peaks.bed	Mid_frontal_lobe	86	H3K4me3	Mid frontal lobe
+CNS	BI.Brain_Substantia_Nigra_peaks.bed	Substantia_nigra	87	H3K4me3	Substantia nigra
+Hematopoietic	BI.CD15_Primary_Cells_peaks.bed	CD15_primary	88	H3K4me3	CD15
+Hematopoietic	BI.CD19_Primary_Cells_peaks.bed	CD19_primary_(BI)	89	H3K4me3	CD19
+Hematopoietic	BI.CD34_Primary_Cells_peaks.bed	CD34_primary	90	H3K4me3	CD34
+Hematopoietic	BI.CD3_Primary_Cells_peaks.bed	CD3_primary_(BI)	91	H3K4me3	CD3
+Hematopoietic	BI.CD4+_CD25+_CD127-_Treg_Primary_Cells_peaks.bed	CD4+_CD25+_CD127-_Treg_primary	92	H3K4me3	CD4+CD25+CD127- Treg
+Hematopoietic	BI.CD4+_CD25-_CD45RA+_Naive_Primary_Cells_peaks.bed	CD4+_CD25-_CD45RA+_naive_primary	93	H3K4me3	CD4+CD25-CD45RA+ naive
+Hematopoietic	BI.CD4+_CD25-_CD45RO+_Memory_Primary_Cells_peaks.bed	CD4+_CD25-_CD45R0+_memory_primary	94	H3K4me3	CD4+CD25-CD45RO+ memory
+Hematopoietic	BI.CD4+_CD25-_IL17+_PMA-Ionomcyin_stimulated_Th17_Primary_Cells_peaks.bed	CD4+_CD25-_IL17+_PMA_Ionomycin_stim_Th17_primary	95	H3K4me3	CD4+CD25-IL17+ stim Th17
+Hematopoietic	BI.CD4+_CD25-_IL17-_PMA-Ionomycin_stimulated_MACS_purified_Th_Primary_Cells_peaks.bed	CD4+_CD25-_IL17-_PMA_Ionomycin_stim_MACS_Th_sprimary	96	H3K4me3	CD4+CD25-IL17- stim Th
+Hematopoietic	BI.CD4+_CD25int_CD127+_Tmem_Primary_Cells_peaks.bed	CD4+_CD25int_CD127+_Tmem_primary	97	H3K4me3	CD4+CD25intCD127+ Tmem
+Hematopoietic	BI.CD4+_CD25-_Th_Primary_Cells_peaks.bed	CD4+_CD25-_Th_primary	98	H3K4me3	CD4+CD25- Th
+Hematopoietic	BI.CD4_Memory_Primary_Cells_peaks.bed	CD4_memory_primary	99	H3K4me3	CD4 memory
+Hematopoietic	BI.CD4_Naive_Primary_Cells_peaks.bed	CD4_naive_primary	100	H3K4me3	CD4 naive
+Hematopoietic	BI.CD8_Memory_Primary_Cells_peaks.bed	CD8_memory_primary	101	H3K4me3	CD8 memory
+Hematopoietic	BI.CD8_Naive_Primary_Cells_peaks.bed	CD8_naive_primary_(BI)	102	H3K4me3	CD8 naive
+GI	BI.Colonic_Mucosa_peaks.bed	Colonic_mucosa	103	H3K4me3	Colonic mucosa
+GI	BI.Colon_Smooth_Muscle_peaks.bed	Colon_smooth_muscle	104	H3K4me3	Colon smooth muscle
+GI	BI.Duodenum_Mucosa_peaks.bed	Duodenum_Mucosa	105	H3K4me3	Duodenum Mucosa
+GI	BI.Duodenum_Smooth_Muscle_peaks.bed	Duodenum_smooth_muscle	106	H3K4me3	Duodenum smooth muscle
+CNS	BI.Fetal_Brain_peaks.bed	Fetal_brain	107	H3K4me3	Fetal brain
+Cardiovascular	BI.Fetal_Heart_peaks.bed	Fetal_heart	108	H3K4me3	Fetal heart
+Cardiovascular	BI.Fetal_Lung_peaks.bed	Fetal_lung	109	H3K4me3	Fetal lung
+Hematopoietic	BI.Mobilized_CD34_Primary_Cells_peaks.bed	Mobilized_CD34_primary	110	H3K4me3	Mobilized CD34
+Adrenal_Pancreas	BI.Pancreatic_Islets_peaks.bed	Pancreatic_islets	111	H3K4me3	Pancreatic islets
+GI	BI.Rectal_Mucosa_peaks.bed	Rectal_mucosa	112	H3K4me3	Rectal mucosa
+GI	BI.Rectal_Smooth_Muscle_peaks.bed	Rectal_smooth_muscle	113	H3K4me3	Rectal smooth muscle
+SkeletalMuscle	BI.Skeletal_Muscle_peaks.bed	Skeletal_muscle	114	H3K4me3	Skeletal muscle
+GI	BI.Stomach_Mucosa_peaks.bed	Stomach_mucosa	115	H3K4me3	Stomach mucosa
+GI	BI.Stomach_Smooth_Muscle_peaks.bed	Stomach_smooth_muscle	116	H3K4me3	Stomach smooth muscle
+Hematopoietic	BI.Treg_Primary_Cells_peaks.bed	Treg_primary	117	H3K4me3	Treg
+Liver	UCSD.Adult_Liver_peaks.bed	Liver_(UCSD)	118	H3K4me3	Liver
+Cardiovascular	UCSD.Aorta_peaks.bed	Aorta	119	H3K4me3	Aorta
+GI	UCSD.Esophagus_peaks.bed	Esophagus	120	H3K4me3	Esophagus
+GI	UCSD.Gastric_peaks.bed	Gastric	121	H3K4me3	Gastric
+Cardiovascular	UCSD.Left_Ventricle_peaks.bed	Left_Ventricle	122	H3K4me3	Left Ventricle
+Cardiovascular	UCSD.Lung_peaks.bed	Lung	123	H3K4me3	Lung
+Other	UCSD.Ovary_peaks.bed	Ovary	124	H3K4me3	Ovary
+Adrenal_Pancreas	UCSD.Pancreas_peaks.bed	Pancreas	125	H3K4me3	Pancreas
+SkeletalMuscle	UCSD.Psoas_Muscle_peaks.bed	Psoas_muscle	126	H3K4me3	Psoas muscle
+Cardiovascular	UCSD.Right_Atrium_peaks.bed	Right_atrium	127	H3K4me3	Right atrium
+Cardiovascular	UCSD.Right_Ventricle_peaks.bed	Right_ventricle	128	H3K4me3	Right ventricle
+GI	UCSD.Sigmoid_Colon_peaks.bed	Sigmoid_colon	129	H3K4me3	Sigmoid colon
+GI	UCSD.Small_Intestine_peaks.bed	Small_intestine	130	H3K4me3	Small intestine
+Hematopoietic	UCSD.Spleen_peaks.bed	Spleen	131	H3K4me3	Spleen
+CNS	UCSF-UBC.Brain_Germinal_Matrix_peaks.bed	Germinal_matrix	132	H3K4me3	Germinal matrix
+Connective_Bone	UCSF-UBC.Breast_Fibroblast_Primary_Cells_peaks.bed	Breast_fibroblast_primary	133	H3K4me3	Breast fibroblast
+Other	UCSF-UBC.Breast_Myoepithelial_Cells_peaks.bed	Breast_myoepithelial	134	H3K4me3	Breast myoepithelial
+Other	UCSF-UBC.Breast_vHMEC_peaks.bed	Breast_vHMEC	135	H3K4me3	Breast vHMEC
+Hematopoietic	UCSF-UBC.CD8_Naive_Primary_Cells_peaks.bed	CD8_naive_primary_(UCSF-UBC)	136	H3K4me3	CD8 naive
+CNS	UCSF-UBC.Fetal_Brain_peaks.bed	Fetal_brain	137	H3K4me3	Fetal brain
+Adrenal_Pancreas	UCSF-UBC.Pancreatic_Islets_peaks.bed	Pancreatic_islets	138	H3K4me3	Pancreatic islets
+Connective_Bone	UCSF-UBC.Penis_Foreskin_Fibroblast_Primary_Cells_peaks.bed	Penis_foreskin_fibroblast_primary	139	H3K4me3	Penis foreskin fibroblast
+Other	UCSF-UBC.Penis_Foreskin_Keratinocyte_Primary_Cells_peaks.bed	Penis_foreskin_keratinocyte_primary	140	H3K4me3	Penis foreskin keratinocyte
+Other	UCSF-UBC.Penis_Foreskin_Melanocyte_Primary_Cells_peaks.bed	Penis_foreskin_melanocyte_primary	141	H3K4me3	Penis foreskin melanocyte
+Hematopoietic	UCSF-UBC.Peripheral_Blood_Mononuclear_Primary_Cells_peaks.bed	Peripheralblood_mononuclear_primary	142	H3K4me3	PBMC
+Other	UCSF-UBC.Placenta_Amnion_peaks.bed	Placenta_amnion	143	H3K4me3	Placenta amnion
+Other	UCSF-UBC.Placenta_Chorion_Smooth_peaks.bed	Placenta_chorion	144	H3K4me3	Placenta chorion
+Hematopoietic	UW.CD14_Primary_Cells_peaks.bed	CD14_primary	145	H3K4me3	CD14
+Hematopoietic	UW.CD19_Primary_Cells_peaks.bed	CD19_primary_(UW)	146	H3K4me3	CD19
+Hematopoietic	UW.CD3_Primary_Cells_peaks.bed	CD3_primary_(UW)	147	H3K4me3	CD3
+Hematopoietic	UW.CD4_Primary_Cells_peaks.bed	CD4_primary	148	H3K4me3	CD4
+Hematopoietic	UW.CD56_Primary_Cells_peaks.bed	CD56_primary	149	H3K4me3	CD56
+Hematopoietic	UW.CD8_Primary_Cells_peaks.bed	CD8_primary	150	H3K4me3	CD8
+Adrenal_Pancreas	UW.Fetal_Adrenal_Gland_peaks.bed	Fetal_adrenal	151	H3K4me3	Fetal adrenal
+GI	UW.Fetal_Intestine_Large_peaks.bed	Fetal_large_intestine	152	H3K4me3	Fetal large intestine
+GI	UW.Fetal_Intestine_Small_peaks.bed	Fetal_small_intestine	153	H3K4me3	Fetal small intestine
+SkeletalMuscle	UW.Fetal_Muscle_Leg_peaks.bed	Fetal_leg_muscle	154	H3K4me3	Fetal leg muscle
+SkeletalMuscle	UW.Fetal_Muscle_Trunk_peaks.bed	Fetal_trunk_muscle	155	H3K4me3	Fetal trunk muscle
+Other	UW.Fetal_Placenta_peaks.bed	Fetal_placenta	156	H3K4me3	Fetal placenta
+GI	UW.Fetal_Stomach_peaks.bed	Fetal_stomach	157	H3K4me3	Fetal stomach
+Hematopoietic	UW.Fetal_Thymus_peaks.bed	Fetal_thymus	158	H3K4me3	Fetal thymus
+Other	BI.Adipose_Nuclei_peaks.bed	Adipose_nuclei	159	H3K9ac	Adipose nuclei
+Kidney	BI.Adult_Kidney_peaks.bed	Kidney	160	H3K9ac	Kidney
+Liver	BI.Adult_Liver_peaks.bed	Liver_(BI)	161	H3K9ac	Liver
+CNS	BI.Brain_Angular_Gyrus_peaks.bed	Angular_gyrus	162	H3K9ac	Angular gyrus
+CNS	BI.Brain_Anterior_Caudate_peaks.bed	Anterior_caudate	163	H3K9ac	Anterior caudate
+CNS	BI.Brain_Cingulate_Gyrus_peaks.bed	Cingulate_gyrus	164	H3K9ac	Cingulate gyrus
+CNS	BI.Brain_Hippocampus_Middle_peaks.bed	Hippocampus_middle	165	H3K9ac	Hippocampus middle
+CNS	BI.Brain_Inferior_Temporal_Lobe_peaks.bed	Inferior_temporal_lobe	166	H3K9ac	Inferior temporal lobe
+CNS	BI.Brain_Mid_Frontal_Lobe_peaks.bed	Mid_frontal_lobe	167	H3K9ac	Mid frontal lobe
+CNS	BI.Brain_Substantia_Nigra_peaks.bed	Substantia_nigra	168	H3K9ac	Substantia nigra
+GI	BI.Colonic_Mucosa_peaks.bed	Colonic_mucosa	169	H3K9ac	Colonic mucosa
+GI	BI.Colon_Smooth_Muscle_peaks.bed	Colon_smooth_muscle	170	H3K9ac	Colon smooth muscle
+GI	BI.Duodenum_Mucosa_peaks.bed	Duodenum_Mucosa	171	H3K9ac	Duodenum Mucosa
+Cardiovascular	BI.Fetal_Heart_peaks.bed	Fetal_heart	172	H3K9ac	Fetal heart
+Kidney	BI.Fetal_Kidney_peaks.bed	Fetal_kidney	173	H3K9ac	Fetal kidney
+Cardiovascular	BI.Fetal_Lung_peaks.bed	Fetal_lung	174	H3K9ac	Fetal lung
+Adrenal_Pancreas	BI.Pancreatic_Islets_peaks.bed	Pancreatic_islets	175	H3K9ac	Pancreatic islets
+GI	BI.Rectal_Mucosa_peaks.bed	Rectal_mucosa	176	H3K9ac	Rectal mucosa
+GI	BI.Rectal_Smooth_Muscle_peaks.bed	Rectal_smooth_muscle	177	H3K9ac	Rectal smooth muscle
+SkeletalMuscle	BI.Skeletal_Muscle_peaks.bed	Skeletal_muscle	178	H3K9ac	Skeletal muscle
+GI	BI.Stomach_Mucosa_peaks.bed	Stomach_mucosa	179	H3K9ac	Stomach mucosa
+GI	BI.Stomach_Smooth_Muscle_peaks.bed	Stomach_smooth_muscle	180	H3K9ac	Stomach smooth muscle
+Other	UCSF-UBC.Breast_Myoepithelial_Cells_peaks.bed	Breast_myoepithelial	181	H3K9ac	Breast myoepithelial
+Hematopoietic	UCSF-UBC.CD8_Naive_Primary_Cells_peaks.bed	CD8_naive_primary_(UCSF-UBC)	182	H3K9ac	CD8 naive
+CNS	UCSF-UBC.Fetal_Brain_peaks.bed	Fetal_brain	183	H3K9ac	Fetal brain
+Other	UCSF-UBC.Penis_Foreskin_Keratinocyte_Primary_Cells_peaks.bed	Penis_foreskin_keratinocyte_primary	184	H3K9ac	Penis foreskin keratinocyte
+Hematopoietic	UCSF-UBC.Peripheral_Blood_Mononuclear_Primary_Cells_peaks.bed	Peripheralblood_mononuclear_primary	185	H3K9ac	PBMC
+Hematopoietic	CD3_Primary_Cells	CD3_primary	186	H3K27ac	CD3
+Hematopoietic	CD25-_CD45RA+_naive	CD25-_CD45RA+_naive	187	H3K27ac	CD4+CD25-CD45RA+ naïve
+Hematopoietic	CD25+_CD127-_Treg	CD25+_CD127-_Treg	188	H3K27ac	CD4+CD25+CD127- Treg
+Hematopoietic	CD25int_CD127+_Tmem	CD25int_CD127+_Tmem	189	H3K27ac	CD4+CD25intCD127+ Tmem
+Hematopoietic	CD25-_IL17+_Th17_stim	CD25-_IL17+_Th17_stim	190	H3K27ac	CD4+CD25-IL17+ stim Th17
+Hematopoietic	CD25-_IL17-_Th_stim_MACS	CD25-_IL17-_Th_stim_MACS	191	H3K27ac	CD4+CD25-IL17- stim Th
+Hematopoietic	Th0	Th0	192	H3K27ac	Th0
+Hematopoietic	Th1	Th1	193	H3K27ac	Th1
+Hematopoietic	Th2	Th2	194	H3K27ac	Th2
+Hematopoietic	CD19	CD19	195	H3K27ac	CD19
+Hematopoietic	adult_CD20	CD20	196	H3K27ac	CD20
+Hematopoietic	adult_CD14	CD14	197	H3K27ac	CD14
+Hematopoietic	Mobilized_CD34	Mobilized_CD34	198	H3K27ac	Mobilized CD34
+Connective_Bone	NH-Osteoblast	Osteoblast	199	H3K27ac	Osteoblast
+Connective_Bone	chondrogenic_dif_cells	Chondrogenic_dif	200	H3K27ac	Chondrogenic dif
+GI	colon_smooth_muscle	Colon_smooth_muscle	201	H3K27ac	Colon smooth muscle
+GI	stomach_smooth_muscle	Stomach_smooth_muscle	202	H3K27ac	Stomach smooth muscle
+GI	rectal_smooth_muscle	Rectal_smooth_muscle	203	H3K27ac	Rectal smooth muscle
+GI	Duodenum_smooth_muscle	Duodenum_smooth_muscle	204	H3K27ac	Duodenum smooth muscle
+SkeletalMuscle	Skeletal_muscle	Skeletal_muscle	205	H3K27ac	Skeletal muscle
+Other	AdiposeNuclei	Adipose_nuclei	206	H3K27ac	Adipose nuclei
+GI	rectal_mucosa	Rectal_mucosa	207	H3K27ac	Rectal mucosa
+GI	colonic_mucosa	Colonic_mucosa	208	H3K27ac	Colonic mucosa
+GI	Duodenum_mucosa	Duodenum_mucosa	209	H3K27ac	Duodenum mucosa
+Liver	Liver1	Liver	210	H3K27ac	Liver
+Adrenal_Pancreas	Pancreatic_Islets	Pancreatic_islets	211	H3K27ac	Pancreatic islets
+Kidney	kidney	Kidney	212	H3K27ac	Kidney
+CNS	Neurosphere	Neurosphere	213	H3K27ac	Neurosphere
+CNS	inferior_temporal_lobe	Inferior_temporal_lobe	214	H3K27ac	Inferior temporal lobe
+CNS	angular_gyrus	Angular_gyrus	215	H3K27ac	Angular gyrus
+CNS	mid_frontal_lobe	Mid_frontal_lobe	216	H3K27ac	Mid frontal lobe
+CNS	cingulate_gyrus	Cingulate_gyrus	217	H3K27ac	Cingulate gyrus
+CNS	substantia_nigra	Substantia_nigra	218	H3K27ac	Substantia nigra
+CNS	anterior_caudate	Anterior_caudate	219	H3K27ac	Anterior caudate
+CNS	hippocampus_middle	Hippocampus_middle	220	H3K27ac	Hippocampus middle
