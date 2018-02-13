@@ -7,6 +7,9 @@ This repo provides our scripts to plot genetic correlation network (Fig. 3) and 
 
 ## Requirements
 
+* [R](https://www.r-project.org/) with [igraph](https://github.com/igraph/rigraph), [dplyr](https://github.com/tidyverse/dplyr), [stringr](https://github.com/tidyverse/stringr) and [Hmisc](https://github.com/harrelfe/Hmisc) packages.
+  * To install these packages, type `install.packages(c("igraph", "tidyverse", "Hmisc"))` in R console.
+
 ## Genetic correlation network (Fig. 3)
 Genetic correlation network was designed to visualize cross-phenotype relationships (pairwise genetic correlation matrix) across dozens of traits estimated via [bivariate LD score regression](https://www.nature.com/articles/ng.3406). Each circle represents a trait and each edge represents a significant genetic correlation (FDR < 0.05). Positive and negative genetic correlations are indicated by color. Thicker edges correspond to more significant FDRs.
 
