@@ -13,7 +13,7 @@ This repo provides our scripts to plot genetic correlation network (Fig. 3) and 
 ## Genetic correlation network (Fig. 3)
 Genetic correlation network was designed to visualize cross-phenotype relationships (pairwise genetic correlation matrix) across dozens of traits estimated via [bivariate LD score regression](https://www.nature.com/articles/ng.3406). Each circle represents a trait and each edge represents a significant genetic correlation (FDR < 0.05). Positive and negative genetic correlations are indicated by color. Thicker edges correspond to more significant FDRs.
 
-<p align="center"><img src="http://mkanai.github.io/img/Kanai2018_Fig3.svg" width="640px"></p>
+<p align="center"><img src="https://mkanai.github.io/assets/img/Kanai2018_Fig3.svg" width="640px"></p>
 
 ### Usage
 ```{sh}
@@ -50,7 +50,7 @@ An example output is shown below. Since layouts are determined by the Fruchterma
 ## Cell-type specificity network (Fig. 6)
 Cell-type specificity network was designed to summarize cell-type specific enrichments estimated via [stratified LD score regression](https://www.nature.com/articles/ng.3404). Each circle represents a trait, and each square represents a cell type. Arrows denote significant heritability enrichments for the indicated traits (FDR < 0.01). Thicker arrows correspond to more significant FDRs. 
 
-<p align="center"><img src="http://mkanai.github.io/img/Kanai2018_Fig6.svg" width="640px"></p>
+<p align="center"><img src="https://mkanai.github.io/assets/img/Kanai2018_Fig6.svg" width="640px"></p>
 
 
 ### Usage
